@@ -23,7 +23,7 @@ export const ImageEditor = () => {
           const fontFamily = "'Hiragino Maru Gothic', sans-serif";
           const fontSize = 30;
           const fontWeight = 200; // 細め
-          const textColor = "#FFC0CB"; // ピンク色
+          const textColor = "#fbb0f4"; // ピンク色
           const outline = true;
           const outlineColor = "#FFFFFF"; // 白色
 
